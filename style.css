@@ -21,3 +21,6 @@ a {
   margin-right: 10px;
   background: grey;
 }
+#featured property p {
+  width: 800px;
+}
