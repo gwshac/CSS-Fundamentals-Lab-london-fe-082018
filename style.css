@@ -6,13 +6,17 @@ body {
 h1 {
   text-align: center;
 }
-img, figcaption {
+img {
   display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%
 }
-
+figcaption {
+  margin: auto;
+  width: 800px;
+  text-align: center;
+}
 nav {
   text-align: center;
 }
