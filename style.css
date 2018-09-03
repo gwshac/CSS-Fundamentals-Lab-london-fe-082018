@@ -37,9 +37,9 @@ a {
 
 #details  {
   display: block;
-  float: left;
 }
 #details div {
+  
   background: grey;
   text-align: center;
   width: 25%
