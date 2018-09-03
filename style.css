@@ -17,6 +17,7 @@ figcaption {
   width: 800px;
   text-align: center;
 }
+
 nav {
   text-align: center;
 }
@@ -26,9 +27,12 @@ a {
   margin-right: 10px;
   background: grey;
 }
+
 #featured-property p {
     margin: auto;
   width: 800px;
   text-align: center;
 }
+
+
 
