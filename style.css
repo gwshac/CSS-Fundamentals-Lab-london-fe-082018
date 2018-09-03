@@ -22,7 +22,9 @@ a {
   background: grey;
 }
 #featured-property p {
-  
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
   width: 800px;
   text-align: center;
 }
